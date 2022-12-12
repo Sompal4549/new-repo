@@ -1,4 +1,4 @@
-I learn how to make the elipsis when text overflow and making variable in CSS.
+I learnt how to make the elipsis when text overflow and making variable in CSS.
 For making variables in css you just need to write --variableName : value;
 Like I want a variable for red color so I will write --red:#FF0000; and done the variable is ready 
 for using this variable for color value you need to type var(--red) like this 
