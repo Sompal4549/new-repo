@@ -7,3 +7,8 @@ For using the elipsis first let me tell you what it does like if you have define
 There you need the thing like elipsis it adds three dots, it signs that there is some more text but hidden.
 like thi...
 if you want something this to happen in your webpage you can use this.
+
+
+
+
+visit the live site by clicking this url https://sompal4549.github.io/new-repo/
